@@ -1,0 +1,16 @@
+[
+       {"name": "movie_id", "type": "STRING"},
+       {"name": "movie_name", "type": "STRING"},
+       {"name": "year", "type": "FLOAT"},
+       {"name": "certificate", "type": "STRING"},
+       {"name": "runtime", "type": "STRING"},
+       {"name": "genre", "type": "STRING"},
+       {"name": "rating", "type": "FLOAT"},
+       {"name": "description", "type": "STRING"},
+       {"name": "director", "type": "STRING" },
+       {"name": "director_id", "type": "STRING" },
+       {"name": "star", "type": "STRING" },
+       {"name": "star_id", "type": "STRING" },
+       {"name": "votes", "type": "FLOAT"},
+       {"name": "gross_usd", "type": "FLOAT"}
+     ]
